@@ -15,7 +15,5 @@ __pycache__/
 app.log
 ngrok.log
 
-# optional: large / regenerated artifacts
-# data/faiss_index.bin
-# data/bm25.pkl
-# data/hr_policies/
+# local policy data, indexes, and evaluation artifacts
+data/
