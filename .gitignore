@@ -1,0 +1,21 @@
+# secrets
+.env
+*.env
+
+# python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / logs
+.DS_Store
+*.log
+app.log
+ngrok.log
+
+# optional: large / regenerated artifacts
+# data/faiss_index.bin
+# data/bm25.pkl
+# data/hr_policies/
