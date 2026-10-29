@@ -2,7 +2,7 @@ import os
 import re
 import json
 from langchain_community.document_loaders import PyPDFLoader
-from src.config import PDF_FOLDER, OUTPUT_FILE
+from config import PDF_FOLDER, OUTPUT_FILE
 
 
 MAX_CHUNK_WORDS = 120
