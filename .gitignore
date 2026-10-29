@@ -15,5 +15,6 @@ __pycache__/
 app.log
 ngrok.log
 
-# local policy data, indexes, and evaluation artifacts
-data/
+
+# Ignore only the hr_policies subfolder inside data
+data/hr_policies/
