@@ -87,6 +87,13 @@ streamlit run src/chat_ui.py
 
 Open http://localhost:8501
 
+
+## Chat UI
+
+The Nagwa HR Policies Q/A Chat provides a conversational interface for querying HR policies and retrieving relevant policy information.
+
+![Chat UI Screenshot](screenshots/chat-ui.png)
+
 ### FastAPI
 
 ```bash
